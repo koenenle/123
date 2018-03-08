@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+.icon {
+	max-width: 150px;
+	margin:0 auto;
+	display:block;
+		
+}
+
+h2{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+h3{
+	text-align: center;
+	
+}
+
+.icon-box{
+	height:300px;
+	margin:10px auto;
+	display:block;
+}
+
+h4{
+	color:whitesmoke;
+	text-align: center;
+}
